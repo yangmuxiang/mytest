@@ -1,5 +1,5 @@
-#include <iostream.h>
-#include <Picture.h>
+#include <iostream>
+#include "Picture.h"
 
 char *init[] = { "Paris", "in the", "Spring" };
 
